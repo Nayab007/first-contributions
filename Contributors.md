@@ -1,12 +1,10 @@
 **Contributors**
 
 <!-- prettier-ignore-start -->
-- [Suyash Suryavanshi](https://github.com/iitiansuyash)
 - [Halim Shams] (https://github.com/Halim-Shams)
 - [Jai Ganesh](https://github.com/jjaijg) 
 [Shubham Yadav]
 - [Mohamed El omary](https://github.com/celomary)
-- [Richard Panzera] (https://github.com/richardpanzera)
 - [Robin Kempen] (https://github.com/Robinho1997)
 - [Mayank Singh](https://github.com/fms12)
 - [MrKrishnaAgarwal](https://github.com/MrKrishnaAgarwal)
@@ -1910,6 +1908,5 @@ runerjs
 - [Gagan Pabla](https://github.com/CrownPab)
 - [Juliet Ofoegbu](https://github.com/OmaJuliet)
 - [Juraj Seman] (https://github.com/Ged223)
-- [Nathan Cao](https://github.com/Ayatuas)
 <!-- prettier-ignore-end -->
 
